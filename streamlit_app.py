@@ -1,5 +1,5 @@
 # app.py - Streamlit app for Ants vs. Bees image classification
-
+!pip install torchvision segmentation-models-pytorch
 import streamlit as st
 import torch
 import torchvision.transforms as T
